@@ -1,0 +1,1 @@
+void draw_board(int *xs,int *ys);

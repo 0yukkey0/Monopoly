@@ -1,0 +1,1 @@
+void move_player(int *x, int *y, int *zf, int *fn, int *pn);

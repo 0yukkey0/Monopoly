@@ -1,0 +1,10 @@
+void key_inp(int *key);
+void draw_cmassage();
+void cheak_1(int *pn);
+void cheak_2(int *pn);
+void cheak_3(int *pn);
+void cheak_4(int *pn);
+void cheak_5(int *pn);
+void cheak_6(int *pn);
+void cheak_7(int *pn);
+void cheak_8(int *pn);

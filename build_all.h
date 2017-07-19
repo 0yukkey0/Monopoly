@@ -1,0 +1,1 @@
+void build_all(int *x,int *y,int player_n);

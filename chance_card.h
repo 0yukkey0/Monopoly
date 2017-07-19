@@ -1,0 +1,1 @@
+void chance_card(int pn);

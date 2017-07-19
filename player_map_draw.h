@@ -1,0 +1,1 @@
+void player_map_draw(int pn);

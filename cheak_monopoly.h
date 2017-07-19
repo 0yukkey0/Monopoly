@@ -1,0 +1,1 @@
+void cheak_monopoly(int pn,int *x,int *y);

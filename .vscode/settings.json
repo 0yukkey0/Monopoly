@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"board.h": "c",
+		"player.h": "c",
+		"cheak_get_build.h": "c"
+	}
+}

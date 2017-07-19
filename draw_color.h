@@ -1,0 +1,1 @@
+void draw_color(int x, int y);
